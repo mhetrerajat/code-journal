@@ -1,2 +1,4 @@
-# book_exercises
-Exercises from books I read 
+# Exercises from books I read 
+
+
+## Think Stats
